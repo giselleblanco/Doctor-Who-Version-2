@@ -1,29 +1,33 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p><strong>The Doctors:</strong></p>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><h2>Navigation </h2>
 	<ul>
-		<li><a href="../doctor-who/doctor-who-01.html">First Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-02.html">Second Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-03.html">Third Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-04.html">Fourth Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-05.html">Fifth Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-06.html">Sixth Doctor </a></li>
-		<li><a href="../doctor-who/doctor-who-07.html">Seventh Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-08.html">Eighth Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-09.html">Ninth Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-10.html">Tenth Doctor</a></li>
-		<li><a href="../doctor-who/doctor-who-11.html">Eleventh Doctor</a></li>
-	</ul>
-	<p><strong>The Companions: </strong></p>
+	  <li><a href="../index.html">Home Page</a></li>
+</ul>
+<h2>The Doctors</h2>
 	<ul>
-		<li><a href="../companions/amy-pond.html">Amy Pond</a></li>
-		<li><a href="../companions/clara-oswin-oswald.html">Clara Oswihn Oswald </a></li>
-		<li><a href="../companions/craig-owens.html">Craig Owens</a></li>
-		<li><a href="../companions/river-song.html">River Song</a></li>
-		<li><a href="../companions/rory-williams.html">Rory Williams </a></li>
-	</ul>
-	<p><strong>The Enemies:</strong></p>
+	  <li><a href="../doctor-who/doctor-who-01.html">The First Doctor </a></li>
+	  <li><a href="../doctor-who/doctor-who-02.html">The Second Doctor</a></li>
+	  <li><a href="../doctor-who/doctor-who-03.html">The Third Doctor</a></li>
+	  <li><a href="../doctor-who/doctor-who-04.html">The Fourth Doctor</a></li>
+	  <li><a href="../doctor-who/doctor-who-05.html">The Fifth Doctor</a></li>
+	  <li><a href="../doctor-who/doctor-who-06.html">The Sixth Doctor </a></li>
+	  <li><a href="../doctor-who/doctor-who-07.html">The Seventh Doctor</a></li>
+	  <li><a href="../doctor-who/doctor-who-08.html">The Eighth Doctor</a></li>
+	  <li><a href="../doctor-who/doctor-who-09.html">The Ninth Doctor</a></li>
+	  <li><a href="../doctor-who/doctor-who-10.html">The Tenth Doctor </a></li>
+	  <li><a href="../doctor-who/doctor-who-11.html">The Eleventh Doctor</a></li>
+</ul>
+	<h2>Companions </h2>
 	<ul>
-		<li><a href="../enemies/abzorbaloff.html">Abzorbaloff</a></li>
-		<li><a href="../enemies/baltazar.html">Baltazar </a></li>
-		<li><a href="../enemies/cybermen.html">Cybermen</a></li>
-		<li><a href="../enemies/daleks.html">Daleks</a></li>
-		<li><a href="../enemies/the-master.html">The Master</a></li></ul>
+	  <li><a href="../companions/amy-pond.html">Amy Pond </a></li>
+	  <li><a href="../companions/clara-oswin-oswald.html">Clara Oswin Oswald </a></li>
+	  <li><a href="../companions/craig-owens.html">Craig Owens</a></li>
+	  <li><a href="../companions/river-song.html">River Song</a></li>
+	  <li><a href="../companions/rory-williams.html">Rory Williams </a></li>
+</ul>
+	<h2>Enemies </h2>
+	<ul>
+	  <li><a href="../enemies/abzorbaloff.html">Abzorbaloff</a></li>
+	  <li><a href="../enemies/baltazar.html">Baltazar</a></li>
+	  <li><a href="../enemies/cybermen.html">Cybermen</a></li>
+	  <li><a href="../enemies/daleks.html">Daleks</a></li>
+	  <li><a href="../enemies/the-master.html">The Master</a></li></ul>
